@@ -21,7 +21,7 @@ Taiwan Academia Sinica proactively sought out and selected our content for their
 - Go‑to‑market: distribution, basic branding, and partnerships for training and internal workshops
 
 **Read more**
-- Product case study 
+- Product case study: [InfosecDecompress-Podcast-product.md](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md)
 - [InfosecDecompress.com](https://infosecdecompress.com)
 - [Instagram](https://www.instagram.com/infosec.zip/#)
 - [Spotify](https://open.spotify.com/show/6bMhZ2VerzSvoDDpLaNjaH)
@@ -43,9 +43,23 @@ During the pandemic, I helped build an automated reporting system that powered i
 - Impact: cutting report time from 3–4 hours to about 15 minutes and supporting 100k+ daily users
 
 **Read more**
-- [Product case study](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) 
+- Product case study: [covid-automation-product.md](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) 
 - [Technical implementation](https://github.com/chia-chang/covid-analytics-automation)
 
+
+## 3. Scratch Jr Programming Course (in‑person to online, in progress)  
+Mandarin programming course for kids, from validated classroom format to online curriculum
+
+Started from a tested in‑person Scratch Jr course for 5–7 year‑olds, then began turning it into an online, modular product.
+
+**From a product perspective**
+- Curriculum and experience design for a very young audience (sequence, conditional logic, loops through stories and games)  
+- Motivation systems: badges, points, and parent‑defined rewards to keep kids engaged across a 16‑week program  
+- Parent experience: simple guides, checklists, and progress records so parents can see what their child is learning  
+- Productization: breaking a live class into short online lessons with videos, project files, and prompts that can be run at home
+
+**Read more**
+- Product notes and syllabus: `scratchjr-course-product.md` (planning)
 
 
 
@@ -62,7 +76,7 @@ This project uses a 100k+ order e‑commerce dataset to simulate realistic stake
 - Turning raw SQL results into recommendations that connect back to business decisions
 
 **Read more**
-- Product case study
+- Product case study: (planning)
 - [Technical implementation](https://github.com/chia-chang/sql-business-analytics)
 
 
