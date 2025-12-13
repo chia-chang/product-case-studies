@@ -1,4 +1,5 @@
 # InfosecDecompress Podcast: 0 to 1 Cybersecurity Education Product
+InfosecDecompress is a Mandarin cybersecurity podcast that takes people from “I know nothing about security” to “I can explain this to others” using stories, visuals, and data‑informed content decisions.
 
 **Role**: Co‑creator and Producer  
 **Project**: InfosecDecompress – Mandarin cybersecurity podcast and content platform  
@@ -98,9 +99,9 @@ After launching the first episodes, the content roadmap was driven by:
 
 ### Examples of iteration  
 - Expanded from fundamentals into deeper topics once data showed strong retention on beginner episodes and listeners were ready for more detail  
-- Added interviews with people in different security roles to answer the recurring question, “What do security jobs actually look like day to day?”  
+- Added interviews with people in different security roles to answer the recurring question “what do security jobs actually look like day to day,” and kept them as longer, ~1‑hour conversations for listeners who wanted more detail.  
 - Introduced tool walk‑throughs and practical tips when listeners asked, “What can I actually do differently after listening?”
-- Introduced interviews with people working in different security roles to answer the recurring question “what do security jobs actually look like day to day,” and kept them as longer, ~1‑hour conversations for listeners who wanted more detail.
+
 
 
 ### Data‑driven decisions  
@@ -115,10 +116,10 @@ After launching the first episodes, the content roadmap was driven by:
 To keep quality high and publishing predictable, each episode ran through a simple production pipeline instead of one‑off recordings.
 
 ### Content pipeline  
-- Used a Notion database to track every idea and episode through stages: idea, outline, recording, editing, review, scheduled, published  
-- Stored metadata such as topic, audience, difficulty level, and related news so each season had a balanced mix and avoided repetition  
-- Linked episodes to notes on listener questions or metrics to see which ideas came directly from audience needs
-- Tracked every episode in a Notion table with one row per episode and columns for status, release date, script, social post, blog version, website update, and YouTube upload, plus tags for episode type and audience level to keep the season balanced.
+- Used a Notion database to track every idea and episode through stages (idea, outline, recording, editing, review, scheduled, published), with one row per episode and columns for status, release date, script, social post, blog version, website update, and YouTube upload.  
+- Stored metadata such as topic, episode type, audience level, difficulty, and related news so each season had a balanced mix and avoided repetition.  
+- Linked episodes to notes on listener questions or metrics to see which ideas came directly from audience needs.
+
 
 
 ### Guest workflow  
@@ -147,7 +148,7 @@ This lightweight but structured process is very similar to managing a product ba
 
 ### Signals of product–market fit  
 - Steady growth in downloads and subscribers rather than a one‑time spike  
-- Instagram became a strong acquisition channel: posts and reels with episode highlights regularly drove noticeable bumps in new listeners  
+- Instagram became a strong acquisition channel: posts with episode highlights regularly drove noticeable bumps in new listeners  
 - Inbound requests from organizations asking to reuse episodes for internal training and onboarding  
 - Listeners reporting that episodes helped them explain security topics to coworkers, family members, or students
 
