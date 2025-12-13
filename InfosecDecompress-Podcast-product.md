@@ -147,6 +147,9 @@ This lightweight but structured process is very similar to managing a product ba
 - Built enough credibility to attract guests across the ecosystem, including senior practitioners and public figures such as [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)
 - Ranked in the top 1.5% of podcasts globally by [Listen Notes](https://www.listennotes.com/podcasts/資安解壓縮-jeff-vQZzkFRCETb/#podcast) (out of 3.6M+ shows, updated December 2025).
 
+![Listen Notes ranking badge](https://github.com/chia-chang/pod_archive/blob/main/Others/紀念/IMG_3939.png)
+*Listen Notes score and global rank for InfosecDecompress (top 1.5% of podcasts worldwide).*
+
 ### Signals of product–market fit  
 - Steady growth in downloads and subscribers rather than a one‑time spike  
 - Instagram became a strong acquisition channel: posts with episode highlights regularly drove noticeable bumps in new listeners  
