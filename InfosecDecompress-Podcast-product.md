@@ -1,7 +1,3 @@
-Here is the simplified English version of your podcast case study, with more natural wording but the same structure.
-
-***
-
 # InfosecDecompress Podcast: 0 to 1 Cybersecurity Education Product
 
 **Role**: Co‑creator and Producer  
