@@ -60,7 +60,7 @@ Treat the podcast as a long‑term product, not just a collection of episodes:
 - A simple website and distribution setup so people could easily find episodes on major podcast platforms
 
 ### Launch and GTM  
-- Published on major podcast platforms plus a simple website ([infosecdecompress.com](https://infosecdecompress.com))  
+- Published on major podcast platforms plus a simple [website](https://infosecdecompress.com)    
 - Promoted the show in relevant communities and social channels where tech and security‑curious listeners hang out  
 - Used [Instagram](https://www.instagram.com/infosec.zip/#) to share visuals, episode highlights, tools, and news updates which became a key channel for bringing new listeners to the podcast  
 - Made episodes easy to share so listeners could recommend them to non‑technical coworkers, friends, and family
