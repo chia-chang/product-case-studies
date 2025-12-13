@@ -65,6 +65,15 @@ Treat the podcast as a long‑term product, not just a collection of episodes:
 - Used [Instagram](https://www.instagram.com/infosec.zip/#) to share visuals, episode highlights, tools, and news updates which became a key channel for bringing new listeners to the podcast  
 - Made episodes easy to share so listeners could recommend them to non‑technical coworkers, friends, and family
 
+### Instagram as a growth channel
+
+We also used Instagram as a key acquisition and engagement channel:
+
+- Created visual cards summarizing each episode’s key points (for example, “3 things to check before using public Wi‑Fi” or “common password patterns”) so people could quickly understand the topic and decide whether to listen.  
+- Posted multi‑image explainers and simple infographics (such as tables of common passwords or diagrams of what data big platforms collect) to deliver value even for people who had not listened yet. 
+- Ran occasional collaboration and campaign posts (for example, with HITCON and other security events), which helped us reach new security‑interested audiences.  
+- Saw clear download bumps after well‑performing posts, confirming that Instagram was one of our strongest channels for bringing in new listeners.
+
 
 
 ## 5. Iteration and Content Strategy
@@ -98,6 +107,8 @@ To keep quality high and publishing predictable, each episode ran through a simp
 - Used a Notion database to track every idea and episode through stages: idea, outline, recording, editing, review, scheduled, published  
 - Stored metadata such as topic, audience, difficulty level, and related news so each season had a balanced mix and avoided repetition  
 - Linked episodes to notes on listener questions or metrics to see which ideas came directly from audience needs
+- Tracked every episode in a Notion table with one row per episode and columns for status, release date, script, social post, blog version, website update, and YouTube upload, plus tags for episode type and audience level to keep the season balanced.
+
 
 ### Guest workflow  
 - Kept a Notion list of potential guests, their roles, and the angle they could bring (for example, incident responder, policy maker, researcher)  
@@ -109,6 +120,10 @@ To keep quality high and publishing predictable, each episode ran through a simp
 - Managed release timing and mix of episode types (intro, deep dive, news, interview) to give both new and returning listeners a clear path through the library
 
 This lightweight but structured process is very similar to managing a product backlog and release cadence: ideas are captured, prioritized, refined with stakeholders, and only shipped when they meet the quality bar.
+
+
+![Notion content pipeline](https://github.com/chia-chang/pm-portfolio/blob/main/media/notion_content_pipeline.png)
+*Notion content pipeline for InfosecDecompress, tracking each episode from idea to released across multiple channels.*
 
 
 
