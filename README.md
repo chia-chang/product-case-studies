@@ -6,7 +6,6 @@ My background is in data science, and these case studies show how I use data, us
 - Product view: problem, users, decisions, trade‑offs, and impact  
 - Technical view: code, data, and implementation details
 
----
 
 ## 1. COVID Analytics Automation  
 End‑to‑end COVID data product for internal decision makers and public dashboards
@@ -63,22 +62,11 @@ This project uses a 100k+ order e‑commerce dataset to simulate realistic stake
 
 
 
-
-
----
-
 ## How I like to work
-
-Across these projects, the common pattern is:
 
 - Start from user problems and decision needs, not just data or features  
 - Use simple, testable MVPs to learn fast before scaling up  
 - Let metrics and real usage guide what to improve next  
 - Communicate clearly with both technical and non‑technical stakeholders
 
-If you would like to talk about data‑heavy product roles (data product manager, analytics PM, product analyst), feel free to reach out.
 
-**Contact**
-
-- Email: cjcwork1@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/chiajung-chang
