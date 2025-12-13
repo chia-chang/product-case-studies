@@ -142,9 +142,10 @@ This lightweight but structured process is very similar to managing a product ba
 ## 7. Outcomes and Impact
 
 ### Reach and recognition  
-- Grew InfosecDecompress into one of the earliest and leading Mandarin cybersecurity podcasts, ranking in the top 2% of podcasts globally by listens and engagement  
+- Grew InfosecDecompress into one of the earliest and leading Mandarin cybersecurity podcast
 - Selected by [Taiwan Academia Sinica](https://www.sinica.edu.tw/en) as internal training material for cybersecurity education  
 - Built enough credibility to attract guests across the ecosystem, including senior practitioners and public figures such as [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)
+- Ranked in the top 1.5% of podcasts globally by [Listen Notes](https://www.listennotes.com/podcasts/資安解壓縮-jeff-vQZzkFRCETb/#podcast) (out of 3.6M+ shows, updated December 2025).
 
 ### Signals of product–market fit  
 - Steady growth in downloads and subscribers rather than a one‑time spike  
