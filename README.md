@@ -7,24 +7,7 @@ My background is in data science, and these case studies show how I use data, us
 - Technical view: code, data, and implementation details
 
 
-## 1. COVID Analytics Automation  
-End‑to‑end COVID data product for internal decision makers and public dashboards
-
-During the pandemic, I helped build an automated reporting system that powered internal reports, research collaborations, and public dashboards. The goal was to replace manual spreadsheet work with a reliable data product that teams could depend on every day.
-
-**What this shows from a product perspective**
-- Problem framing: from “automate reports” to “design a reporting experience that is fast, consistent, and scalable”  
-- User research: shadowing epidemiologists, talking to operations staff, and understanding public and partner needs  
-- MVP and prioritization: scoping the first version around a few core metrics and three key data sources, then iterating  
-- Stakeholder management: aligning operations, engineering, executives, and public health experts  
-- Impact: cutting report time from 3–4 hours to about 15 minutes and supporting 100k+ daily users
-
-**Read more**
-- [Product case study](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) 
-- [Technical implementation](https://github.com/chia-chang/covid-analytics-automation)
-
-
-## 2. InfosecDecompress Podcast (0 to 1 product)  
+## 1. InfosecDecompress Podcast (0 to 1 product)  
 Mandarin cybersecurity education product from idea to top 2% global show
 
 Together with a co‑host I launched the first Mandarin cybersecurity podcast and grew it from zero to a top 2% show in its category. We treated it as a full product, not just a content hobby.
@@ -43,6 +26,25 @@ Taiwan Academia Sinica proactively sought out and selected our content for their
 - [Instagram](https://www.instagram.com/infosec.zip/#)
 - [Spotify](https://open.spotify.com/show/6bMhZ2VerzSvoDDpLaNjaH)
 - [Apple Podcast](https://podcasts.apple.com/tw/podcast/%E8%B3%87%E5%AE%89%E8%A7%A3%E5%A3%93%E7%B8%AE/id1513276667)
+
+## 2. COVID Analytics Automation  
+End‑to‑end COVID data product for internal decision makers and public dashboards
+
+During the pandemic, I helped build an automated reporting system that powered internal reports, research collaborations, and public dashboards. The goal was to replace manual spreadsheet work with a reliable data product that teams could depend on every day.
+
+**What this shows from a product perspective**
+- Problem framing: from “automate reports” to “design a reporting experience that is fast, consistent, and scalable”  
+- User research: shadowing epidemiologists, talking to operations staff, and understanding public and partner needs  
+- MVP and prioritization: scoping the first version around a few core metrics and three key data sources, then iterating  
+- Stakeholder management: aligning operations, engineering, executives, and public health experts  
+- Impact: cutting report time from 3–4 hours to about 15 minutes and supporting 100k+ daily users
+
+**Read more**
+- [Product case study](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) 
+- [Technical implementation](https://github.com/chia-chang/covid-analytics-automation)
+
+
+
 
 
 ## 3. Business Analytics Scenarios (Olist)  
