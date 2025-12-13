@@ -61,7 +61,8 @@ Treat the podcast as a long‑term product, not just a collection of episodes:
 
 ### Launch and GTM  
 - Published on major podcast platforms plus a simple website ([infosecdecompress.com](https://infosecdecompress.com))  
-- Announced the show in relevant communities and social channels where tech and security‑curious listeners hang out  
+- Promoted the show in relevant communities and social channels where tech and security‑curious listeners hang out  
+- Used [Instagram](https://www.instagram.com/infosec.zip/#) to share visuals, episode highlights, tools, and news updates which became a key channel for bringing new listeners to the podcast  
 - Made episodes easy to share so listeners could recommend them to non‑technical coworkers, friends, and family
 
 
@@ -120,6 +121,7 @@ This lightweight but structured process is very similar to managing a product ba
 
 ### Signals of product–market fit  
 - Steady growth in downloads and subscribers rather than a one‑time spike  
+- Instagram became a strong acquisition channel: posts and reels with episode highlights regularly drove noticeable bumps in new listeners  
 - Inbound requests from organizations asking to reuse episodes for internal training and onboarding  
 - Listeners reporting that episodes helped them explain security topics to coworkers, family members, or students
 
