@@ -166,6 +166,9 @@ Even though this is a content product, tools and data played a big role.
 
 This mix of qualitative feedback and quantitative data made content decisions feel very similar to product decisions: grounded in real user behavior instead of intuition alone.
 
+### Implementation repos  
+We host the [InfosecDecompress website](https://infosecdecompress.com) and related code in a [GitHub organization](https://github.com/Infosecdecompress), which includes the public site and supporting scripts.  
+
 
 
 ## 9. Why This Experience Matters for Product Roles
