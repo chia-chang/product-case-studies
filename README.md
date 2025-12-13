@@ -27,6 +27,9 @@ Taiwan Academia Sinica proactively sought out and selected our content for their
 - [Spotify](https://open.spotify.com/show/6bMhZ2VerzSvoDDpLaNjaH)
 - [Apple Podcast](https://podcasts.apple.com/tw/podcast/%E8%B3%87%E5%AE%89%E8%A7%A3%E5%A3%93%E7%B8%AE/id1513276667)
 
+Code and infrastructure for the podcast website live in a shared [GitHub organization](https://github.com/Infosecdecompress), where I collaborate with my co‑host on the site and related tooling.
+
+
 ## 2. COVID Analytics Automation  
 End‑to‑end COVID data product for internal decision makers and public dashboards
 
