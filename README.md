@@ -13,7 +13,7 @@ Mandarin cybersecurity education product from idea to top 1.5% global show
 Together with a co‑host I launched the first Mandarin cybersecurity podcast and grew it from zero to a top 1.5% show in its category. We treated it as a full product, not just a content hobby.
 Taiwan Academia Sinica proactively sought out and selected our content for their internal cybersecurity training.
 
-**What this shows from a product perspective**
+**From a product perspective**
 - 0 to 1: identifying an underserved audience and building a new product from scratch  
 - Discovery: validating that Mandarin‑speaking professionals needed approachable security content  
 - Content and feature roadmap: choosing topics, formats, and guests to serve a clear user problem  
@@ -35,7 +35,7 @@ End‑to‑end COVID data product for internal decision makers and public dashbo
 
 During the pandemic, I helped build an automated reporting system that powered internal reports, research collaborations, and public dashboards. The goal was to replace manual spreadsheet work with a reliable data product that teams could depend on every day.
 
-**What this shows from a product perspective**
+**From a product perspective**
 - Problem framing: from “automate reports” to “design a reporting experience that is fast, consistent, and scalable”  
 - User research: shadowing epidemiologists, talking to operations staff, and understanding public and partner needs  
 - MVP and prioritization: scoping the first version around a few core metrics and three key data sources, then iterating  
