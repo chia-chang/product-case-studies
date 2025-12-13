@@ -8,9 +8,9 @@ My background is in data science, and these case studies show how I use data, us
 
 
 ## 1. InfosecDecompress Podcast (0 to 1 product)  
-Mandarin cybersecurity education product from idea to top 2% global show
+Mandarin cybersecurity education product from idea to top 1.5% global show
 
-Together with a co‑host I launched the first Mandarin cybersecurity podcast and grew it from zero to a top 2% show in its category. We treated it as a full product, not just a content hobby.
+Together with a co‑host I launched the first Mandarin cybersecurity podcast and grew it from zero to a top 1.5% show in its category. We treated it as a full product, not just a content hobby.
 Taiwan Academia Sinica proactively sought out and selected our content for their internal cybersecurity training.
 
 **What this shows from a product perspective**
