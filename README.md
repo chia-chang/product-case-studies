@@ -59,25 +59,9 @@ Started from a tested in‑person Scratch Jr course for 5–7 year‑olds, then 
 - Productization: breaking a live class into short online lessons with videos, project files, and prompts that can be run at home
 
 **Read more**
-- Product notes and syllabus: `scratchjr-course-product.md` (planning)
+- Product case study: [scratchjr-course-product.md](https://github.com/chia-chang/product-case-studies/blob/main/scratchjr-course-product.md)
 
 
-
-
-## 3. Business Analytics Scenarios (Olist)  
-Decision support for operations, marketing, and customer teams
-
-This project uses a 100k+ order e‑commerce dataset to simulate realistic stakeholder questions: delivery performance, late orders, high‑value customers, city revenue, and campaign impact.
-
-**What this shows from a product perspective**
-- Translating vague questions into concrete, answerable problem statements  
-- Designing slices of analysis around real teams: operations, customer service, marketing, regional sales  
-- Choosing the right level of detail based on urgency, audience, and whether the question will recur  
-- Turning raw SQL results into recommendations that connect back to business decisions
-
-**Read more**
-- Product case study: (planning)
-- [Technical implementation](https://github.com/chia-chang/sql-business-analytics)
 
 
 
