@@ -75,6 +75,15 @@ We also used Instagram as a key acquisition and engagement channel:
 - Saw clear download bumps after well‑performing posts, confirming that Instagram was one of our strongest channels for bringing in new listeners.   
 - Kept a consistent visual system (same color palette, type, and layout for episode covers and infographics) so the brand was recognizable in the feed and listeners could immediately spot new episodes.
 
+![Instagram episode highlight – interview and follow‑up tips](./media/ep17_instagram.png)
+*Instagram campaign for the Audrey Tang interview: one post introducing the episode and a follow‑up series (“三國無雙”) that turned key ideas into practical tips and bite‑sized cards.*
+
+![Instagram explainer carousel](./media/browser.png)
+*Carousel explainer that walks through “what happens after you type a web address”, repackaging the episode into a step‑by‑step visual story.*
+
+![Instagram episode highlight – topic series](./media/ep46.png)
+*Episode cover and slides for “Pretty Good Privacy”, using simple diagrams to explain how PGP works and making the topic approachable for non‑experts.*
+
 
 
 
