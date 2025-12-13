@@ -1,4 +1,4 @@
-# Chia Chang – Product and Analytics Portfolio
+# Product Case Studies
 
 This repository is a curated portfolio for product‑oriented work.  
 My background is in data science, and these case studies show how I use data, user understanding, and iteration to build and improve products.
