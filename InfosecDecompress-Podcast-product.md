@@ -4,7 +4,7 @@
 **Project**: InfosecDecompress – Mandarin cybersecurity podcast and content platform  
 **Why this matters for PM**: End‑to‑end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
-***
+
 
 ## 1. Context and Problem
 
@@ -13,7 +13,7 @@ Most high‑quality content was in English, and the Mandarin content that did ex
 
 This created a clear gap: many people wanted to understand how cybersecurity affected their work and everyday life, but the content they could find either drowned them in jargon or did not answer their real questions.
 
-***
+
 
 ## 2. Mission and Target Audience
 
@@ -28,7 +28,6 @@ Make cybersecurity understandable and relevant for the general public by explain
 ### Positioning  
 An approachable, story‑driven Mandarin cybersecurity show that sits between deep technical podcasts for experts and sensational headline‑driven news.
 
-***
 
 ## 3. Product Concept and Format
 
@@ -45,7 +44,7 @@ Treat the podcast as a long‑term product, not just a collection of episodes:
 - Structure: start with beginner‑friendly topics and gradually go deeper, so new listeners can choose their own entry point  
 - Guests: invite practitioners from incident response, governance, engineering, and other roles to show what security work actually looks like
 
-***
+
 
 ## 4. 0 to 1: From Idea to Launch
 
@@ -116,8 +115,8 @@ This lightweight but structured process is very similar to managing a product ba
 
 ### Reach and recognition  
 - Grew InfosecDecompress into one of the earliest and leading Mandarin cybersecurity podcasts, ranking in the top 2% of podcasts globally by listens and engagement  
-- Selected by Academia Sinica in Taiwan as internal training material for cybersecurity education  
-- Built enough credibility to attract guests across the ecosystem, including senior practitioners and public figures such as Audrey Tang
+- Selected by [Taiwan Academia Sinica](https://www.sinica.edu.tw/en) as internal training material for cybersecurity education  
+- Built enough credibility to attract guests across the ecosystem, including senior practitioners and public figures such as [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)
 
 ### Signals of product–market fit  
 - Steady growth in downloads and subscribers rather than a one‑time spike  
