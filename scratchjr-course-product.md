@@ -2,7 +2,7 @@
 
 **Role**: Curriculum and product co‑designer  
 **Project**: Mandarin Scratch Jr programming course for kids (ages 5–7)  
-**Why this matters for PM**: Combines curriculum design, motivation systems, and parent experience to turn a one‑teacher class into a scalable learning product.
+**Why this matters for PM**: Combines curriculum design, motivation systems, and parent experience to turn a one‑teacher class into a scalable learning product.   
 **What I did**: Co‑designed curriculum and structure, focused on course architecture, motivation system, and parent experience
 
 ## 1. Context and Problem
