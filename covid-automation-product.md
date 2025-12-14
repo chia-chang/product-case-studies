@@ -1,9 +1,9 @@
 # COVID Analytics Automation: A Data Scientist’s Product Thinking
 
-**Role**: Data Scientist, IBM  
+**Role**: Data Scientist, IBM. Owned analytics product design and implementation, worked with other engineers and public health experts.  
 **Project**: Automated COVID-19 reporting system that reduced manual work from 3–4 hours to about 15 minutes per report  
 **Why it is relevant for PM**: This work required product skills such as understanding users, prioritizing features, and defining and tracking success metrics.
-**What I did**: Owned analytics product design and implementation, worked with other engineers and public health experts.
+
 
 ***
 
