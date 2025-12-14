@@ -3,6 +3,7 @@
 **Role**: Data Scientist, IBM  
 **Project**: Automated COVID-19 reporting system that reduced manual work from 3–4 hours to about 15 minutes per report  
 **Why it is relevant for PM**: This work required product skills such as understanding users, prioritizing features, and defining and tracking success metrics.
+**What I did**: Owned analytics product design and implementation, worked with other engineers and public health experts.
 
 ***
 
@@ -126,7 +127,14 @@ Coordinating these perspectives and translating between them often took as much 
 
 ***
 
-## 7. Metrics and Outcomes
+## 7. Outcomes and Impact
+
+By the time the system was fully adopted, it had:
+
+- Cut report time from 3–4 hours to about 15 minutes per run  
+- Supported 100k+ daily users across internal teams, partners, and public dashboards  
+- Reduced errors and conflicting numbers across teams, making our reports the single source of truth
+
 
 Primary success metric  
 - Time required to generate a standard report  
