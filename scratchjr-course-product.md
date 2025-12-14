@@ -3,7 +3,7 @@
 **Role**: Curriculum and product co‑designer  
 **Project**: Mandarin Scratch Jr programming course for kids (ages 5–7)  
 **Why this matters for PM**: Combines curriculum design, motivation systems, and parent experience to turn a one‑teacher class into a scalable learning product.
-
+**What I did**: Co‑designed curriculum and structure, focused on course architecture, motivation system, and parent experience
 
 ## 1. Context and Problem
 
@@ -95,5 +95,12 @@ This project shows:
 - Designing for a very different user group (5–7 year‑olds and their parents) compared to typical B2B data products.  
 - Building an offline MVP first, learning from real classrooms, then planning how to scale it online.  
 - Thinking about motivation systems, user journeys, and multi‑stakeholder needs (kids, parents, teacher) in a structured way.
+
+## 7. Outcomes and early signals
+
+- Successfully ran multiple 16‑week classes with consistent attendance and high project completion rates.  
+- Parents reported that the badge and points system helped kids stay motivated over the whole term.  
+- The offline course now provides a tested curriculum and structure for the in‑progress online version.
+
 
 It complements the InfosecDecompress podcast by showing similar product thinking—just applied to early‑childhood programming instead of adult cybersecurity.
