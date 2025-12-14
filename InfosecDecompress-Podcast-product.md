@@ -5,7 +5,7 @@ InfosecDecompress is a Mandarin cybersecurity podcast that takes people from “
 **Project**: InfosecDecompress – Mandarin cybersecurity podcast and content platform  
 **Why this matters for PM**: End‑to‑end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
-
+---
 
 ## 1. Context and Problem
 
@@ -14,7 +14,7 @@ Most high‑quality content was in English, and the Mandarin content that did ex
 
 This created a clear gap: many people wanted to understand how cybersecurity affected their work and everyday life, but the content they could find either drowned them in jargon or did not answer their real questions.
 
-
+---
 
 ## 2. Mission and Target Audience
 
@@ -29,8 +29,21 @@ Make cybersecurity understandable and relevant for the general public by explain
 ### Positioning  
 An approachable, story‑driven Mandarin cybersecurity show that sits between deep technical podcasts for experts and sensational headline‑driven news.
 
+---
 
-## 3. Product Concept and Format
+## 3. Goals and Success Metrics
+
+From the beginning, we treated InfosecDecompress as a product and defined what success should look like:
+
+- Reach: steady growth in downloads and subscribers over time, not just a one‑time launch spike.  
+- Engagement: solid episode completion rates and a healthy share of listeners who come back for multiple episodes and seasons.  
+- Impact: organizations reusing episodes for training and listeners saying they can explain topics to coworkers, friends, or family.
+
+To track this, we looked at episode downloads, completion rates, subscriber growth, traffic from Instagram and other channels, and inbound requests or messages from listeners and organizations.
+
+---
+
+## 4. Product Concept and Format
 
 ### Product idea  
 Treat the podcast as a long‑term product, not just a collection of episodes:
@@ -43,11 +56,11 @@ Treat the podcast as a long‑term product, not just a collection of episodes:
 - Language: Mandarin, to remove the English barrier for most listeners  
 - Length: most episodes are around 10 minutes so people can fit them into a commute or short break; in‑depth interviews run closer to an hour for listeners who want a deeper dive
 - Structure: start with beginner‑friendly topics and gradually go deeper, so new listeners can choose their own entry point  
-- Guests: invite practitioners from incident response, governance, engineering, and other roles to show what security work actually looks like
+- Guests: invite practitioners from incident response, governance, engineering, and other roles to show what security work actually looks like day to day
 
+---
 
-
-## 4. 0 to 1: From Idea to Launch
+## 5. 0 to 1: From Idea to Launch
 
 ### Discovery and validation  
 - Talked with friends, colleagues, and early listeners about how they currently learn about security and what confuses or scares them  
@@ -76,19 +89,18 @@ We also used Instagram as a key acquisition and engagement channel:
 - Saw clear download bumps after well‑performing posts, confirming that Instagram was one of our strongest channels for bringing in new listeners.   
 - Kept a consistent visual system (same color palette, type, and layout for episode covers and infographics) so the brand was recognizable in the feed and listeners could immediately spot new episodes.
 
-![Instagram episode highlight – interview and follow‑up tips](./media/ep17_instagram.png)
+![Instagram episode highlight – interview and follow‑up tips](./media/ep17_instagram.png)  
 *Instagram campaign for the Audrey Tang interview: one post introducing the episode and a follow‑up series (“三國無雙”) that turned key ideas into practical tips and bite‑sized cards.*
 
-![Instagram explainer carousel](./media/browser.png)
+![Instagram explainer carousel](./media/browser.png)  
 *Carousel explainer that walks through “what happens after you type a web address”, repackaging the episode into a step‑by‑step visual story.*
 
-![Instagram episode highlight – topic series](./media/ep46.png)
+![Instagram episode highlight – topic series](./media/ep46.png)  
 *Episode cover and slides for “Pretty Good Privacy”, using simple diagrams to explain how PGP works and making the topic approachable for non‑experts.*
 
+---
 
-
-
-## 5. Iteration and Content Strategy
+## 6. Iteration and Content Strategy
 
 ### Content roadmap  
 After launching the first episodes, the content roadmap was driven by:
@@ -102,16 +114,14 @@ After launching the first episodes, the content roadmap was driven by:
 - Added interviews with people in different security roles to answer the recurring question “what do security jobs actually look like day to day,” and kept them as longer, ~1‑hour conversations for listeners who wanted more detail.  
 - Introduced tool walk‑throughs and practical tips when listeners asked, “What can I actually do differently after listening?”
 
-
-
 ### Data‑driven decisions  
 - Used Google Analytics and platform stats to see which topics, titles, and formats attracted more listeners and better completion rates  
 - Looked at trends over time to decide which themes to revisit, which to stop, and which to spin into mini‑series  
 - Treated each season as a chance to try a few new ideas while keeping a familiar structure for returning listeners
 
+---
 
-
-## 6. Content and Guest Management
+## 7. Content and Guest Management
 
 To keep quality high and publishing predictable, each episode ran through a simple production pipeline instead of one‑off recordings.
 
@@ -119,8 +129,6 @@ To keep quality high and publishing predictable, each episode ran through a simp
 - Used a Notion database to track every idea and episode through stages (idea, outline, recording, editing, review, scheduled, published), with one row per episode and columns for status, release date, script, social post, blog version, website update, and YouTube upload.  
 - Stored metadata such as topic, episode type, audience level, difficulty, and related news so each season had a balanced mix and avoided repetition.  
 - Linked episodes to notes on listener questions or metrics to see which ideas came directly from audience needs.
-
-
 
 ### Guest workflow  
 - Kept a Notion list of potential guests, their roles, and the angle they could bring (for example, incident responder, policy maker, researcher)  
@@ -133,21 +141,23 @@ To keep quality high and publishing predictable, each episode ran through a simp
 
 This lightweight but structured process is very similar to managing a product backlog and release cadence: ideas are captured, prioritized, refined with stakeholders, and only shipped when they meet the quality bar.
 
-
-![Notion content pipeline](https://github.com/chia-chang/pm-portfolio/blob/main/media/notion_content_pipeline.png)
+![Notion content pipeline](https://github.com/chia-chang/pm-portfolio/blob/main/media/notion_content_pipeline.png)  
 *Notion content pipeline for InfosecDecompress, tracking each episode from idea to released across multiple channels.*
 
+---
 
-
-## 7. Outcomes and Impact
+## 8. Outcomes and Impact
 
 ### Reach and recognition  
-- Grew InfosecDecompress into one of the earliest and leading Mandarin cybersecurity podcast
+- Grew InfosecDecompress into one of the earliest and leading Mandarin cybersecurity podcast  
 - Selected by [Taiwan Academia Sinica](https://www.sinica.edu.tw/en) as internal training material for cybersecurity education  
-- Built enough credibility to attract guests across the ecosystem, including senior practitioners and public figures such as [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)
+- Built enough credibility to attract guests across the ecosystem, including senior practitioners and public figures such as [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang)  
 - Ranked in the top 1.5% of podcasts globally by [Listen Notes](https://www.listennotes.com/podcasts/資安解壓縮-jeff-vQZzkFRCETb/#podcast) (out of 3.6M+ shows, updated December 2025).
 
-![Listen Notes ranking badge](./media/IMG_3939.png)
+<p align="middle">
+  <img src="./media/IMG_3939.png" alt="Listen Notes ranking badge" width="360">
+</p>
+
 *Listen Notes score and global rank for InfosecDecompress (top 1.5% of podcasts worldwide).*
 
 
@@ -157,8 +167,9 @@ This lightweight but structured process is very similar to managing a product ba
 - Inbound requests from organizations asking to reuse episodes for internal training and onboarding  
 - Listeners reporting that episodes helped them explain security topics to coworkers, family members, or students
 
+---
 
-## 8. Technology and Analytics
+## 9. Technology and Analytics
 
 Even though this is a content product, tools and data played a big role.
 
@@ -175,9 +186,9 @@ This mix of qualitative feedback and quantitative data made content decisions fe
 ### Implementation repos  
 We host the [InfosecDecompress website](https://infosecdecompress.com) and related code in a [GitHub organization](https://github.com/Infosecdecompress), which includes the public site and supporting scripts.  
 
+---
 
-
-## 9. Why This Experience Matters for Product Roles
+## 10. Why This Experience Matters for Product Roles
 
 InfosecDecompress is effectively a 0‑to‑1 product:
 
@@ -186,4 +197,3 @@ InfosecDecompress is effectively a 0‑to‑1 product:
 - Data‑informed iteration: topics and formats were adjusted based on real listener behavior and feedback, not just creative preference  
 
 For product and analytics PM roles, this shows comfort with ambiguity, the ability to find and validate a user problem, and the discipline to use data to guide what to build next.
-
