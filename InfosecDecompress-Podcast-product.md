@@ -5,7 +5,7 @@ InfosecDecompress is a Mandarin cybersecurity podcast that takes people from “
 **Project**: InfosecDecompress – Mandarin cybersecurity podcast and content platform  
 **Why this matters for PM**: End‑to‑end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
----
+
 
 ## 1. Context and Problem
 
@@ -14,7 +14,7 @@ Most high‑quality content was in English, and the Mandarin content that did ex
 
 This created a clear gap: many people wanted to understand how cybersecurity affected their work and everyday life, but the content they could find either drowned them in jargon or did not answer their real questions.
 
----
+
 
 ## 2. Mission and Target Audience
 
@@ -29,7 +29,7 @@ Make cybersecurity understandable and relevant for the general public by explain
 ### Positioning  
 An approachable, story‑driven Mandarin cybersecurity show that sits between deep technical podcasts for experts and sensational headline‑driven news.
 
----
+
 
 ## 3. Goals and Success Metrics
 
@@ -41,7 +41,8 @@ From the beginning, we treated InfosecDecompress as a product and defined what s
 
 To track this, we looked at episode downloads, completion rates, subscriber growth, traffic from Instagram and other channels, and inbound requests or messages from listeners and organizations.
 
----
+When new ideas came up — for example, a new episode format or a new Instagram series — we compared options on three simple axes: ease of implementation, production effort, and expected impact on these core metrics. This helped us pick a clear MVP instead of trying to ship every idea at once.
+
 
 ## 4. Product Concept and Format
 
@@ -58,7 +59,7 @@ Treat the podcast as a long‑term product, not just a collection of episodes:
 - Structure: start with beginner‑friendly topics and gradually go deeper, so new listeners can choose their own entry point  
 - Guests: invite practitioners from incident response, governance, engineering, and other roles to show what security work actually looks like day to day
 
----
+
 
 ## 5. 0 to 1: From Idea to Launch
 
@@ -98,7 +99,7 @@ We also used Instagram as a key acquisition and engagement channel:
 ![Instagram episode highlight – topic series](./media/ep46.png)  
 *Episode cover and slides for “Pretty Good Privacy”, using simple diagrams to explain how PGP works and making the topic approachable for non‑experts.*
 
----
+
 
 ## 6. Iteration and Content Strategy
 
@@ -119,7 +120,9 @@ After launching the first episodes, the content roadmap was driven by:
 - Looked at trends over time to decide which themes to revisit, which to stop, and which to spin into mini‑series  
 - Treated each season as a chance to try a few new ideas while keeping a familiar structure for returning listeners
 
----
+When an episode or post under‑performed, we ran a quick root‑cause check: looked at topic, title, length, release timing, and how much we supported it on Instagram before deciding whether the issue was content, framing, or distribution. This kept us from overreacting to single metrics like “low plays” without understanding why.
+
+
 
 ## 7. Content and Guest Management
 
@@ -144,7 +147,7 @@ This lightweight but structured process is very similar to managing a product ba
 ![Notion content pipeline](https://github.com/chia-chang/pm-portfolio/blob/main/media/notion_content_pipeline.png)  
 *Notion content pipeline for InfosecDecompress, tracking each episode from idea to released across multiple channels.*
 
----
+
 
 ## 8. Outcomes and Impact
 
@@ -167,7 +170,7 @@ This lightweight but structured process is very similar to managing a product ba
 - Inbound requests from organizations asking to reuse episodes for internal training and onboarding  
 - Listeners reporting that episodes helped them explain security topics to coworkers, family members, or students
 
----
+
 
 ## 9. Technology and Analytics
 
@@ -186,7 +189,7 @@ This mix of qualitative feedback and quantitative data made content decisions fe
 ### Implementation repos  
 We host the [InfosecDecompress website](https://infosecdecompress.com) and related code in a [GitHub organization](https://github.com/Infosecdecompress), which includes the public site and supporting scripts.  
 
----
+
 
 ## 10. Why This Experience Matters for Product Roles
 
