@@ -83,10 +83,15 @@ Parents are a critical part of this product, so we designed for them as users to
 - Clear class information in Mandarin (schedules, dates, location, price, what to bring) in a single place.
 
 This reduces friction at signup and helps parents feel the course is structured, not just “fun screen time”.
+When kids consistently got stuck on a specific exercise, we treated it like debugging: watched the class, asked parents what they saw at home, then simplified the steps or split the activity into smaller pieces for the next cohort.
+
 
 ## 7. Moving Toward an Online Curriculum (In Progress)
 
 With the classroom version validated, the current work is to turn it into an online, modular course.
+Before deciding how to take the course online, we listed several options (live classes on Zoom, pre‑recorded videos, interactive platforms) and compared them by ease of implementation, required engineering effort, and suitability for 5–7 year olds.  
+That led us to start with short pre‑recorded lessons plus printable badges as the MVP, instead of building a heavy custom platform first.
+
 
 Key design decisions:
 
