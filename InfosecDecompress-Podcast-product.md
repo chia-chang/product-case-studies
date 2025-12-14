@@ -99,6 +99,10 @@ We also used Instagram as a key acquisition and engagement channel:
 ![Instagram episode highlight – topic series](./media/ep46.png)  
 *Episode cover and slides for “Pretty Good Privacy”, using simple diagrams to explain how PGP works and making the topic approachable for non‑experts.*
 
+### How I evaluated ideas
+
+When new episode or feature ideas came up, we compared a few options on three axes: ease of implementation, production effort, and expected impact on our core metrics (reach, engagement, and depth of impact).  
+This made it easier to pick a clear MVP for each season instead of trying to ship everything at once.
 
 
 ## 6. Iteration and Content Strategy
@@ -119,6 +123,7 @@ After launching the first episodes, the content roadmap was driven by:
 - Used Google Analytics and platform stats to see which topics, titles, and formats attracted more listeners and better completion rates  
 - Looked at trends over time to decide which themes to revisit, which to stop, and which to spin into mini‑series  
 - Treated each season as a chance to try a few new ideas while keeping a familiar structure for returning listeners
+
 
 When an episode or post under‑performed, we ran a quick root‑cause check: looked at topic, title, length, release timing, and how much we supported it on Instagram before deciding whether the issue was content, framing, or distribution. This kept us from overreacting to single metrics like “low plays” without understanding why.
 
