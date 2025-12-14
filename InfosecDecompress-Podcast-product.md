@@ -212,3 +212,5 @@ For product and analytics PM roles, this shows comfort with ambiguity, the abili
 
 **Email:** cjcwork1@gmail.com  
 **GitHub:** [github.com/chia-chang](https://github.com/chia-chang)
+
+made with ✨ + 🌿 + 💛 by Chia Chang
