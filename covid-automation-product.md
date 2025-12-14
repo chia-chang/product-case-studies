@@ -217,3 +217,5 @@ See the [technical repository](https://github.com/chia-chang/covid-analytics-aut
 
 **Email:** cjcwork1@gmail.com    
 **GitHub:** [github.com/chia-chang](https://github.com/chia-chang)
+
+made with ✨ + 🌿 + 💛 by Chia Chang
