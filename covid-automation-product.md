@@ -124,6 +124,8 @@ To decide what belonged in the first version, I used a simple impact versus effo
 
 This structure made it possible to deliver a concrete, working product early, gather feedback from real use, and show that end-to-end automation was worth further investment.
 
+Before committing to this plan, we compared several solution shapes (manual templates, semi‑automated scripts, and a fully automated pipeline) on ease of implementation, engineering effort, and expected impact on report time.  
+That exercise made it clear that a lean but fully automated pipeline was the best MVP, even if the visuals were simple at first.
 
 
 ## 7. Delivery and Iteration
@@ -141,6 +143,10 @@ A few examples of changes driven directly by user feedback:
 - After the first release, analysts asked for a weekly view in addition to daily numbers, so the report was extended to include daily, weekly, and summary tabs.  
 - When some users mentioned that certain values “felt off,” I added data quality checks, source flags, and validation rules; this reduced support questions and increased trust in the outputs.  
 - Executives said that they rarely opened spreadsheets, so a lightweight dashboard layer was added for them, while keeping the Excel reports for power users who preferred that format.
+
+One explicit trade‑off was choosing a daily batch pipeline instead of near‑real‑time updates: it kept the system simple and reliable while still meeting users’ decision needs.  
+When numbers looked wrong, we did root‑cause analysis on the pipeline rather than patching spreadsheets, and only shipped fixes once we knew exactly where the discrepancy came from.
+
 
 In other words, the roadmap was shaped by actual usage and conversations, not just by an initial requirements document.
 
