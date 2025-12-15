@@ -43,19 +43,19 @@ Because the online version is still in progress, goals focus on learning experie
 •	**Kids**: Understand and reuse concepts like sequence, conditions, and loops, not just follow step‑by‑step instructions.   
 •	**Parents**: Quickly see what each unit teaches and know how to review or practice with their child.   
 
-To support this, the curriculum design emphasizes:   
-•	A visible progression of concepts (from basic blocks to sequences, then conditions and loops).
-•	Clear mapping between each lesson and the core concept it teaches.
+To support this, the curriculum design emphasizes:  
+•	A visible progression of concepts (from basic blocks to sequences, then conditions and loops).   
+•	Clear mapping between each lesson and the core concept it teaches.   
 •	Artifacts that kids can show and explain to parents (projects, badges, and a simple progress record).
 
 
 
 ## 4. My Approach and Role
 
-I joined after the in‑person course structure already existed and focused on:
-•	Making the curriculum explicit: Turning the instructor’s lesson notes into a structured map of lessons, project files, and core concepts.
-•	Designing for reuse and review: Grouping lessons by concepts so kids and parents can easily find “all the lessons about loops” or “where we first introduced conditions”.
-•	Adding a motivation system for online learning: Designing points and badges that work without a live teacher in the room, so families can keep kids engaged over several weeks.   
+I joined after the in‑person course structure already existed and focused on:   
+•	Making the curriculum explicit: Turning the instructor’s lesson notes into a structured map of lessons, project files, and core concepts.   
+•	Designing for reuse and review: Grouping lessons by concepts so kids and parents can easily find “all the lessons about loops” or “where we first introduced conditions”.   
+•	Adding a motivation system for online learning: Designing points and badges that work without a live teacher in the room, so families can keep kids engaged over several weeks.    
 
 I did not design or run the original classroom sessions. Instead, I treated them as an MVP that had already validated demand and engagement, and focused on the “productization” step needed to scale beyond one teacher and one classroom.
 
@@ -64,12 +64,12 @@ I did not design or run the original classroom sessions. Instead, I treated them
 
 The instructor’s original class is a 16‑session, in‑person course, taught in Mandarin, where each session ends with an animation or mini‑game that kids can show their parents. The screenshots below show the initial lesson list and Notion table we used as raw material.
 
-Key characteristics of the offline course:
-•	Small group format with strong engagement and positive parent feedback.
-•	Each lesson has a themed project (for example, dance party, animal race, monster chase) designed to keep kids excited.
-•	Concepts such as moving blocks, speed, events, and simple conditions are taught implicitly as part of following teacher instructions.
+Key characteristics of the offline course:   
+•	Small group format with strong engagement and positive parent feedback.   
+•	Each lesson has a themed project (for example, dance party, animal race, monster chase) designed to keep kids excited.   
+•	Concepts such as moving blocks, speed, events, and simple conditions are taught implicitly as part of following teacher instructions.   
 
-This version worked well in person, but it was hard for parents or other teachers to see the overall progression or reuse specific lessons.
+This version worked well in person, but it was hard for parents or other teachers to see the overall progression or reuse specific lessons.   
 
 ### Evidence from the original classroom course
 
@@ -82,58 +82,58 @@ This version worked well in person, but it was hard for parents or other teacher
 
 
 ## 6. Redesigning the Curriculum Structure
-My first step was to reorganize the lessons around concepts instead of only themes. I rebuilt the lesson list into a table with columns such as:
-•	Lesson number and name.
-•	Main activity / project file.
-•	Core programming concept (Basics, Sequence, Condition, Loop, Project Integration).
-•	Related questions or prompts for discussion.
-From there, I proposed a new structure that:
-•	Starts with **basic operations** (open app, create characters, move, run scripts).
-•	Moves into **sequencing** (ordering blocks so actions happen in the right order).
-•	Introduces **conditional logic** (reacting to events or collisions).
-•	Adds **loops** (repeating patterns without copying blocks).
-•	Ends with **integration projects** where kids combine multiple concepts in their own stories.
+My first step was to reorganize the lessons around concepts instead of only themes. I rebuilt the lesson list into a table with columns such as:   
+•	Lesson number and name.   
+•	Main activity / project file.   
+•	Core programming concept (Basics, Sequence, Condition, Loop, Project Integration).   
+•	Related questions or prompts for discussion.   
+From there, I proposed a new structure that:   
+•	Starts with **basic operations** (open app, create characters, move, run scripts).   
+•	Moves into **sequencing** (ordering blocks so actions happen in the right order).   
+•	Introduces **conditional logic** (reacting to events or collisions).   
+•	Adds **loops** (repeating patterns without copying blocks).   
+•	Ends with **integration projects** where kids combine multiple concepts in their own stories.   
 Right now, the detailed design is complete up to the early units, and the later units are planned as creative projects that combine earlier blocks rather than fixed step‑by‑step builds.
 
 
 
 ## 7. Motivation and Reward System (Online‑Friendly)
-Because online lessons can be watched at any time, a big risk is that families “mean to start” but never build a habit. To support this, I designed a simple points and badges system that families can run themselves:
+Because online lessons can be watched at any time, a big risk is that families “mean to start” but never build a habit. To support this, I designed a simple points and badges system that families can run themselves:   
 ### Points
-•	Completing a lesson video and project.
+•	Completing a lesson video and project.   
 •	Trying an extra variation or remix.
 ### Badges
-•	Concept badges (first time using sequences, conditions, loops).
-•	Consistency badges (learning for several weeks in a row).
+•	Concept badges (first time using sequences, conditions, loops).   
+•	Consistency badges (learning for several weeks in a row).   
 •	Creativity badges (designing a full story, adding voices, or teaching someone else).
 
 Instead of prescribing a fixed prize list, parents choose rewards that fit their family (screen time, small treat, special outing), so the system is flexible across households.
 
 ## 8. Parent Experience
 
-For parents, I designed lightweight but concrete artifacts:
-•	A one‑page course overview that explains the goals, high‑level structure, and what Scratch Jr is.
-•	Short checklists per unit (“can start a project”, “can run a script”, “can explain what a loop does”).
-•	A simple progress tracker that parents can print or keep digitally to mark completed lessons and badges.
+For parents, I designed lightweight but concrete artifacts:   
+•	A one‑page course overview that explains the goals, high‑level structure, and what Scratch Jr is.   
+•	Short checklists per unit (“can start a project”, “can run a script”, “can explain what a loop does”).   
+•	A simple progress tracker that parents can print or keep digitally to mark completed lessons and badges.   
 The goal is to make the course feel structured and purposeful rather than “random YouTube videos about coding”.
 
 ## 9. Moving Toward an Online Curriculum (In Progress)
-The current plan for the online version is:
-•	Break the in‑person 16‑session course into shorter, focused video lessons.
-•	Package each lesson with:
-  •	A short Mandarin video walkthrough.
-  •	A Scratch Jr project file (.sjr) as a starting point.
-  •	Parent notes and suggested questions to ask their child.
-•	Keep the motivation system printable or digital so families can run it without extra tools.
+The current plan for the online version is:   
+•	Break the in‑person 16‑session course into shorter, focused video lessons.    
+•	Package each lesson with:   
+  •	A short Mandarin video walkthrough.   
+  •	A Scratch Jr project file (.sjr) as a starting point.     
+  •	Parent notes and suggested questions to ask their child.   
+•	Keep the motivation system printable or digital so families can run it without extra tools.   
 
 This is still in progress; the work so far focuses on curriculum architecture, concept mapping, and the reward system rather than full production of all videos.
 
 ## 10. How This Relates to Product Roles
 
-This project demonstrates:
-•	Taking an existing, successful “service” (one teacher’s live class) and turning it into a reusable, structured product.
-•	Designing for multiple users with different needs: kids, parents, and the instructor.
-•	Balancing pedagogy and product thinking: defining concepts, shaping the curriculum, and planning for engagement in an online, self‑paced format.
+This project demonstrates:   
+•	Taking an existing, successful “service” (one teacher’s live class) and turning it into a reusable, structured product.   
+•	Designing for multiple users with different needs: kids, parents, and the instructor.   
+•	Balancing pedagogy and product thinking: defining concepts, shaping the curriculum, and planning for engagement in an online, self‑paced format.   
 It complements the InfosecDecompress podcast case study by showing similar product skills in a very different domain: early‑childhood programming instead of adult cybersecurity content.
 
 
