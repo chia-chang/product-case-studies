@@ -71,6 +71,14 @@ Key characteristics of the offline course:
 
 This version worked well in person, but it was hard for parents or other teachers to see the overall progression or reuse specific lessons.
 
+### Evidence from the original classroom course
+
+
+
+![syllabus-flyer-feedback](media/scratchjr/og-syllabus-flyer-feedback.png)
+
+*Lesson list, flyer and parent feedback from the original in‑person Scratch Jr class, which validated demand and became the foundation for the online, structured curriculum I worked on.*
+
 
 
 ## 6. Redesigning the Curriculum Structure
