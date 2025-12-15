@@ -54,15 +54,15 @@ During the pandemic, I built an automated reporting system that replaced manual 
 
 ## 3. Scratch Jr Programming Course (in progress)
 
-Mandarin programming course for kids, from validated classroom format to online curriculum.
+Mandarin programming course for kids, turning a validated classroom class into a structured online curriculum.
 
-Started from a tested in-person Scratch Jr course for 5-7 year-olds, now turning it into an online, modular product.
+Started from a successful in‑person Scratch Jr course for 5–7 year‑olds; my work focuses on reorganizing the syllabus by concepts and designing an online‑friendly motivation system.
 
 **From a product perspective:**
-- Curriculum design: sequence, conditional logic, and loops through stories and games for a very young audience
-- Motivation systems: badges, points, and parent-defined rewards to keep kids engaged across 16 weeks
+- Curriculum design: introduce sequence, conditional logic, and loops through stories and games for a very young audience
+- Motivation systems: badges, points, and parent‑defined rewards to keep kids engaged in a self‑paced format
 - Parent experience: simple guides, checklists, and progress records so parents can see what their child is learning
-- Productization: breaking a live class into short online lessons with videos, project files, and prompts that can be run at home
+- Productization: turning a one‑teacher class into short online lessons with videos, project files, and prompts that families can run at home
 
 **Read more:**
 - Product case study: [scratchjr-course-product.md](./scratchjr-course-product.md)
