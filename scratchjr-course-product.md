@@ -98,16 +98,21 @@ Right now, the detailed design is complete up to the early units, and the later 
 
 
 ## 7. Motivation and Reward System (Online‑Friendly)
-Because online lessons can be watched at any time, a big risk is that families “mean to start” but never build a habit. To support this, I designed a simple points and badges system that families can run themselves:   
-### Points
-•	Completing a lesson video and project.   
-•	Trying an extra variation or remix.
-### Badges
-•	Concept badges (first time using sequences, conditions, loops).   
-•	Consistency badges (learning for several weeks in a row).   
-•	Creativity badges (designing a full story, adding voices, or teaching someone else).
+Because online lessons can be watched at any time, a big risk is that families “mean to start” but never build a habit. To support this, I designed a simple points and badges system that families can run themselves.
+At a high level, the system has:
+•	**Points** for completing lesson videos, projects, and extra remixes.
+•	**Badges** for concepts (sequence, condition, loop), consistency, and creativity.
+•	A printable reward poster and badge sheet that parents can put on the fridge and customize with their own prizes.
+The visuals and concrete rules are in the appendix section below.
 
-Instead of prescribing a fixed prize list, parents choose rewards that fit their family (screen time, small treat, special outing), so the system is flexible across households.
+### Printable Reward System Artifacts
+To make the motivation system easy to run at home, I designed two printable artifacts:
+•	**Reward poster**: Explains how to earn points, how many points each badge is worth, and example rewards families can customize.
+•	**Achievement badges sheet**: A set of reusable badge icons that kids can mark off or sticker over as they reach milestones.
+These are designed so parents can adjust rewards (screen time, small toys, outings) without changing the core structure of the system.
+
+![scratchjr-reward-poster](media/scratchjr/badge-system.png)
+
 
 ## 8. Parent Experience
 
@@ -136,6 +141,11 @@ This project demonstrates:
 •	Balancing pedagogy and product thinking: defining concepts, shaping the curriculum, and planning for engagement in an online, self‑paced format.   
 It complements the InfosecDecompress podcast case study by showing similar product skills in a very different domain: early‑childhood programming instead of adult cybersecurity content.
 
+## Appendix: Printable Materials
+
+- Course overview one‑pager (for parents)  
+- Unit checklists and progress tracker  
+- Scratch Jr reward poster and badge sheet (for kids’ motivation)
 
 
 ## Contact
