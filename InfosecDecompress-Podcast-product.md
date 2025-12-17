@@ -167,7 +167,7 @@ This lightweight but structured process is very similar to managing a product ba
   <img src="./media/IMG_3939.png" alt="Listen Notes ranking badge" width="360">
 </p>
 
-*Listen Notes score and global rank for InfosecDecompress (top 1.5 percent of podcasts worldwide).*
+*Listen Notes score and global rank for InfosecDecompress (top 1.5% of podcasts worldwide).*
 
 **Signals of product-market fit:**
 - Steady growth in downloads and subscribers rather than a one-time spike
@@ -175,7 +175,13 @@ This lightweight but structured process is very similar to managing a product ba
 - Inbound requests from organizations asking to reuse episodes for internal training and onboarding
 - Listeners reporting that episodes helped them explain security topics to coworkers, family members, or students
 
-
+**Quantitative results:**
+- Across 54 published episodes, achieved a 78.02% average engagement rate on Apple Podcasts, defined as Unique Engaged Listeners ÷ Unique Listeners (listeners who played at least 20 minutes or 40% of an episode).
+- Identified “true product‑market fit” topics by combining Apple engagement with Spotify analytics: episodes about “what is information security”, password hygiene, VPNs, browser safety, and everyday device habits all landed in the top 20 for Spotify streams while keeping 80%+ engagement on Apple.
+- Used this analysis to decide which topics to revisit as series, which formats to keep (short fundamentals vs. longer interviews), and which ideas to drop even if they had high clicks but weaker completion.
+<p align="middle">
+  <img src="./media/Podcast/Top20Episodes.png""./media/IMG_3939.png""./media/ＰIMG_3939.png" 
+</p>
 
 ## 9. Technology and Analytics
 
