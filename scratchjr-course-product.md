@@ -1,6 +1,6 @@
 # Scratch Jr Programming Course: From Classroom to Online Curriculum
 
-**Role:** Curriculum and product co‑designer for the online version. I helped redesign the course structure, motivation system, and parent experience based on an existing in‑person class.
+**Role:** Curriculum and product co‑designer for the online version (2-person team). I helped redesign the course structure, motivation system, and parent experience based on an existing in‑person class.
 
 **What I’m building:** A Mandarin Scratch Jr programming course for kids (ages 5–7) that can be delivered in short, modular lessons.
 
