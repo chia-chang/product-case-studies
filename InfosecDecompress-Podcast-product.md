@@ -2,7 +2,7 @@
 
 InfosecDecompress is a Mandarin cybersecurity podcast that takes people from "I know nothing about security" to "I can explain this to others" using stories, visuals, and data-informed content decisions.
 
-**Role:** Co-creator and Producer. Shared ownership on content and product decisions, personally led analytics, Notion pipeline, and Instagram strategy.
+**Role:** Co-creator and Producer (2-person team). Shared ownership on content and product decisions, personally led analytics, Notion pipeline, and Instagram strategy.
 
 **Why this matters for PM:** End-to-end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
