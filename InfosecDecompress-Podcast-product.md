@@ -180,7 +180,7 @@ This lightweight but structured process is very similar to managing a product ba
 - Identified “true product‑market fit” topics by combining Apple engagement with Spotify analytics: episodes about “what is information security”, password hygiene, VPNs, browser safety, and everyday device habits all landed in the top 20 for Spotify streams while keeping 80%+ engagement on Apple.
 - Used this analysis to decide which topics to revisit as series, which formats to keep (short fundamentals vs. longer interviews), and which ideas to drop even if they had high clicks but weaker completion.
 <p align="middle">
-  <img src="./media/Podcast/Top20Episodes.png""./media/IMG_3939.png""./media/ＰIMG_3939.png" 
+  <img src="./media/Podcast/Top20Episodes.png" width="560"> 
 </p>
 
 ## 9. Technology and Analytics
