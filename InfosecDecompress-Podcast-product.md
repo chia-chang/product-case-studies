@@ -24,8 +24,8 @@ This created a clear gap: many people wanted to understand how cybersecurity aff
 Make cybersecurity understandable and relevant for the general public by explaining key ideas in clear Mandarin with concrete, real-world examples.
 
 **Target audience:**
-- Mandarin-speaking professionals and students with little or no security background
-- People curious about topics like data leaks, phishing, and privacy, but who do not plan to become security engineers
+- All Mandarin-speaking audience with little or no security background
+- People curious about topics like data leaks, phishing, and privacy, but who do not plan to become cybersecurity professionals 
 - Later, a secondary audience: organizations and educators who needed approachable material for internal training
 
 **Positioning:**  
