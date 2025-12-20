@@ -87,12 +87,12 @@ Instagram became one of our strongest acquisition and engagement channels:
 
 - Created visual cards summarizing each episode's key points (for example, "3 things to check before using public Wi-Fi" or "common password patterns") so people could quickly understand the topic and decide whether to listen
 - Posted multi-image explainers and simple infographics (such as tables of common passwords or diagrams of what data big platforms collect) to deliver value even for people who had not listened yet
-- Ran occasional collaboration and campaign posts (for example, with HITCON and other security events), which helped us reach new security-interested audiences
+- Ran occasional collaboration and campaign posts (for example, with [Hacks In Taiwan Conference (HITCON)](https://hitcon.org/) and other security events), which helped us reach new security-interested audiences
 - Saw clear download bumps after well-performing posts, confirming that Instagram was one of our strongest channels for bringing in new listeners
 - Kept a consistent visual system (same color palette, type, and layout for episode covers and infographics) so the brand was recognizable in the feed and listeners could immediately spot new episodes
 
 ![Instagram episode highlight – interview and follow-up tips](./media/ep17_instagram.png)  
-*Instagram campaign for the Audrey Tang interview: one post introducing the episode and a follow-up series about her own cybersecurity tips.*
+*Instagram campaign for the [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang) (the first Minister of Digital Affairs of Taiwan) interview: one post introducing the episode and a follow-up series about her own cybersecurity tips.*
 
 ![Instagram explainer carousel](./media/browser.png)  
 *Carousel explainer that walks through "what happens after you type a web address", repackaging the episode into a step-by-step visual story.*
