@@ -1,33 +1,32 @@
 # Product Case Studies
 
-This portfolio shows how I approach problems from a product perspective.
+This repository is a curated portfolio of product‑oriented work.  
+My background is in data science, and these case studies show how I use user understanding, structured processes, and data to build and improve products.
 
-My background is data science, but these projects required more than technical execution. They needed user research, prioritization, iteration, and measuring impact—the core of product work.
-
-Each case study includes:
-- Product view: problem, users, decisions, trade-offs, and outcomes
-- Technical view: links to code and implementation details
+Each case study includes:  
+- **Product view:** problem, users, decisions, trade‑offs, roadmap, and outcomes  
+- **Technical view:** links to code, architecture, and implementation details  
 
 
 
 ## 1. InfosecDecompress Podcast (0 to 1 product)
 
-Mandarin cybersecurity education product from idea to top 1.5% global ranking.
+Mandarin cybersecurity education product from idea to a top 1.5% global ranking, later selected by Taiwan Academia Sinica for internal training.
 
-My co-host and I launched the first accessible Mandarin cybersecurity podcast and grew it from zero to a show used by Taiwan Academia Sinica for internal training.
+I co‑created a 2‑person show that turned an underserved need (“I want to understand security, but everything is too technical or too shallow”) into a data‑informed content product with a clear pipeline, roadmap, and growth strategy.
 
 **From a product perspective:**
-- 0 to 1: identified an underserved audience and built from scratch
-- Discovery: validated that Mandarin-speaking professionals needed approachable security content
-- Content roadmap: chose topics, formats, and guests to serve a clear user need
-- Metrics and iteration: used download trends, completion rates, and listener feedback to refine positioning
-- Go-to-market: distribution, partnerships, and basic branding
+- 0 to 1: identified an underserved audience and defined the show’s positioning and promise  
+- Discovery: validated that Mandarin‑speaking beginners needed approachable security content  
+- Content roadmap: chose topics, formats, and guests based on user needs and data  
+- Metrics and iteration: used Spotify/Apple data and listener feedback to refine topics and formats  
+- Go‑to‑market: distribution, Instagram campaigns, partnerships, and basic branding  
 
 **Read more:**
-- Product case study: [InfosecDecompress-Podcast-product.md](./InfosecDecompress-Podcast-product.md)
-- Website: [infosecdecompress.com](https://infosecdecompress.com)
-- Podcast: [Spotify](https://open.spotify.com/show/6bMhZ2VerzSvoDDpLaNjaH) | [Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E8%B3%87%E5%AE%89%E8%A7%A3%E5%A3%93%E7%B8%AE/id1513276667)
-- Social: [Instagram](https://www.instagram.com/infosec.zip)
+- Product case study: [InfosecDecompress-Podcast-product.md](./InfosecDecompress-Podcast-product.md)  
+- Website: [infosecdecompress.com](https://infosecdecompress.com)  
+- Podcast: [Spotify](https://open.spotify.com/show/6bMhZ2VerzSvoDDpLaNjaH) | [Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E8%B3%87%E5%AE%89%E8%A7%A3%E5%A3%93%E7%B8%AE/id1513276667)  
+- Social: [Instagram](https://www.instagram.com/infosec.zip)  
 
 Code and infrastructure live in a shared [GitHub organization](https://github.com/Infosecdecompress).
 
@@ -35,20 +34,20 @@ Code and infrastructure live in a shared [GitHub organization](https://github.co
 
 ## 2. COVID Analytics Automation
 
-End-to-end COVID data product for internal decision makers and public dashboards.
+End‑to‑end COVID data product for internal decision makers, partners, and public dashboards.
 
-During the pandemic, I built an automated reporting system that replaced manual spreadsheet work with a reliable data product teams could depend on daily.
+During the pandemic, I owned analytics product design and implementation for an automated reporting system that replaced manual spreadsheet work with a reliable data product teams used every day.
 
 **From a product perspective:**
-- Problem framing: from "automate reports" to "design a reporting experience that is fast, consistent, and scalable"
-- User research: shadowed epidemiologists, talked to operations staff, understood public and partner needs
-- MVP and prioritization: scoped first version around core metrics and three key data sources, then iterated
-- Stakeholder management: aligned operations, engineering, executives, and public health experts
-- Impact: cut report time from 3-4 hours to about 15 minutes, supported 100K+ daily users
+- Problem framing: from “automate reports” to “design a reporting experience that is fast, consistent, and scalable”  
+- User research: shadowed epidemiologists, talked to operations staff, understood public and partner needs  
+- MVP and prioritization: scoped the first version around core metrics and three key data sources, then iterated  
+- Stakeholder management: aligned operations, engineering, executives, and public health experts  
+- Impact: cut report time from 3–4 hours to about 15 minutes and supported 100K+ daily users  
 
 **Read more:**
-- Product case study: [covid-automation-product.md](./covid-automation-product.md)
-- Technical implementation: [github.com/chia-chang/covid-analytics-automation](https://github.com/chia-chang/covid-analytics-automation)
+- Product case study: [covid-automation-product.md](./covid-automation-product.md)  
+- Technical implementation: [github.com/chia-chang/covid-analytics-automation](https://github.com/chia-chang/covid-analytics-automation)  
 
 
 
@@ -56,25 +55,25 @@ During the pandemic, I built an automated reporting system that replaced manual 
 
 Mandarin programming course for kids, turning a validated classroom class into a structured online curriculum.
 
-Started from a successful in‑person Scratch Jr course for 5–7 year‑olds; my work focuses on reorganizing the syllabus by concepts and designing an online‑friendly motivation system.
+Starting from a successful in‑person Scratch Jr course for 5–7 year‑olds, I co‑designed the online version with the instructor, focusing on curriculum architecture, motivation systems, and parent experience.
 
 **From a product perspective:**
-- Curriculum design: introduce sequence, conditional logic, and loops through stories and games for a very young audience
-- Motivation systems: badges, points, and parent‑defined rewards to keep kids engaged in a self‑paced format
-- Parent experience: simple guides, checklists, and progress records so parents can see what their child is learning
-- Productization: turning a one‑teacher class into short online lessons with videos, project files, and prompts that families can run at home
+- Curriculum design: introduce sequence, conditional logic, and loops through stories and games for a very young audience  
+- Motivation systems: badges, points, and parent‑defined rewards to keep kids engaged in a self‑paced format  
+- Parent experience: simple guides, checklists, and progress records so parents can see and support what their child is learning  
+- Productization: turning a one‑teacher class into short online lessons with videos, project files, and prompts that families can run at home  
 
-**Read more:**
-- Product case study: [scratchjr-course-product.md](./scratchjr-course-product.md)
+**Read more:**   
+Product case study: [scratchjr-course-product.md](./scratchjr-course-product.md)  
 
 
 
 ## How I Work
 
-- Start from user problems and decision needs, not just data or features
-- Use simple, testable versions to learn fast before scaling up
-- Let metrics and real usage guide what to improve next
-- Communicate clearly with both technical and non-technical stakeholders
+- Start from user problems and decision needs, not just data or features  
+- Use simple, testable versions to learn fast before scaling up  
+- Let metrics and real usage guide what to improve next  
+- Communicate clearly with both technical and non‑technical stakeholders  
 
 
 
