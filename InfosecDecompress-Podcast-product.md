@@ -2,7 +2,9 @@
 
 InfosecDecompress is a Mandarin cybersecurity podcast that takes people from "I know nothing about security" to "I can explain this to others" using stories, visuals, and data-informed content decisions.
 
-**Role:** Co-creator and Producer (2-person team). Shared ownership on content and product decisions, personally led analytics, Notion pipeline, and Instagram strategy.
+**Role:** Co-creator and Producer (2-person team). 
+  - Shared ownership on content and product decisions
+  - Led analytics, Notion pipeline, and Instagram strategy.
 
 **Why this matters for PM:** End-to-end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
@@ -36,7 +38,7 @@ This created a clear gap: many people wanted to understand how cybersecurity aff
 Make cybersecurity understandable and relevant for the general public by explaining key ideas in clear Mandarin with concrete, real-world examples.
 
 **Target audience:**
-- All Mandarin-speaking audience with little or no security background
+- Mandarin-speaking audience with little or no security background
 - People curious about topics like data leaks, phishing, and privacy, but who do not plan to become cybersecurity professionals 
 - Later, a secondary audience: organizations and educators who needed approachable material for internal training
 
@@ -194,6 +196,8 @@ This lightweight but structured process is very similar to managing a product ba
 <p align="middle">
   <img src="./media/Podcast/Top20Episodes.png" width="560"> 
 </p>
+
+These signals together suggest real product–market fit for a Mandarin cybersecurity education product, not just a one-off content project.
 
 ## 9. Technology and Analytics
 
