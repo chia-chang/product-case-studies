@@ -59,6 +59,18 @@ I joined after the in‑person course structure already existed and focused on:
 
 I did not design or run the original classroom sessions. Instead, I treated them as an MVP that had already validated demand and engagement, and focused on the “productization” step needed to scale beyond one teacher and one classroom.
 
+### Process overview
+
+![Scratch Jr curriculum process](./media/scratchjr/ScratchJr-flowchart.png)
+*High-level steps from analyzing the existing in‑person course, to redesigning the curriculum structure, designing the dual user experience for kids and parents, building the motivation and progress system, creating parent support materials, and packaging the course for online delivery.*
+
+### Roadmap and phases
+
+![Scratch Jr roadmap](./media/scratchjr/ScratchJr-roadmap.png)
+*Five phases from validating the offline class, to redesigning the curriculum by concepts, designing motivation and parent tools, packaging lessons for an online pilot, and refining everything for a full launch based on pilot results.*
+
+
+
 
 ## 5. Classroom Course Design (Existing Offline Version)
 
