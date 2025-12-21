@@ -111,6 +111,16 @@ The approach combined:
 - **Proactive problem-solving:** identifying manual bottlenecks and proposing automated solutions
 - **Iterative delivery:** treating each change as an experiment and using feedback and metrics to decide what to improve next
 
+### Process overview
+
+![COVID reporting process](./media/COVID/COVID-flowchart.png)
+*End-to-end process from aligning on the problem and success metrics, to defining the MVP scope, building the automated pipeline and reports, coordinating with data engineers, testing with users, and monitoring adoption and impact.*
+
+### Roadmap and phases
+
+![COVID analytics roadmap](./media/COVID/COVID-roadmap.png)
+*Five phases from mapping manual pain and baseline, to defining the MVP and success, building the core pipeline and daily report, expanding outputs and validation, and rolling out while monitoring time savings, errors, and adoption.*
+
 
 
 ## 5. Solution Overview
