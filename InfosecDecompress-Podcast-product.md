@@ -8,6 +8,16 @@ InfosecDecompress is a Mandarin cybersecurity podcast that takes people from "I 
 
 **Why this matters for PM:** End-to-end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
+**Key metrics**
+
+| Metric | Value | Note |
+|--------|-------|------|
+| Global ranking | Top 1.5% | Listen Notes, ~3.6M shows |
+| Avg. engagement rate (Apple) | 78% | Unique Engaged / Unique Listeners |
+| Episodes | 54 | Fundamentals, news, tools, interviews |
+
+---
+
 ### Process overview
 
 At a high level, the podcast followed a simple product loop from discovery to iteration.
@@ -170,14 +180,6 @@ This lightweight but structured process is very similar to managing a product ba
 
 
 ## 8. Outcomes and Impact
-
-**Key metrics**
-
-| Metric | Value | Note |
-|--------|-------|------|
-| Global ranking | Top 1.5% | Listen Notes, ~3.6M shows |
-| Avg. engagement rate (Apple) | 78% | Unique Engaged / Unique Listeners |
-| Episodes | 54 | Fundamentals, news, tools, interviews |
 
 
 **Reach and recognition:**
