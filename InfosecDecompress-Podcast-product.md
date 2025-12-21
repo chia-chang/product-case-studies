@@ -171,6 +171,15 @@ This lightweight but structured process is very similar to managing a product ba
 
 ## 8. Outcomes and Impact
 
+**Key metrics**
+
+| Metric | Value | Note |
+|--------|-------|------|
+| Global ranking | Top 1.5% | Listen Notes, ~3.6M shows |
+| Avg. engagement rate (Apple) | 78% | Unique Engaged / Unique Listeners |
+| Episodes | 54 | Fundamentals, news, tools, interviews |
+
+
 **Reach and recognition:**
 - Grew InfosecDecompress into one of the earliest and leading Mandarin cybersecurity podcasts
 - Selected by [Taiwan Academia Sinica](https://www.sinica.edu.tw/en) as internal training material for cybersecurity education
