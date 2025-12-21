@@ -12,7 +12,14 @@
 
 **Why this matters for PM:** This work required product skills such as understanding users, prioritizing features, defining and tracking success metrics, and coordinating across multiple teams to deliver a unified solution.
 
+**Key metrics:**
 
+| Metric | Result | What it shows |
+|--------|--------|---------------|
+| Report prep time | 3–4 hours → 15 minutes per run | 80%+ reduction in manual effort |
+| Daily users | 100K+ across internal teams, partners, and public dashboards | Broad adoption of the data product |
+| Consistency | Single set of standardized metrics used across teams | Fewer conflicting numbers and reconciliation loops |
+| Reliability signals | Users filed tickets quickly when the pipeline failed; other teams requested access | High dependence and pull from the organization |
 
 ## 1. Context and Problem
 
@@ -223,6 +230,7 @@ Coordinating these perspectives and translating between them often took as much 
 
 
 ## 9. Outcomes and Impact
+
 
 By the time the system was fully adopted, our team had:
 
