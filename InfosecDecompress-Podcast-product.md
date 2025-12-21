@@ -105,13 +105,13 @@ Instagram became one of our strongest acquisition and engagement channels:
 - Saw clear download bumps after well-performing posts, confirming that Instagram was one of our strongest channels for bringing in new listeners
 - Kept a consistent visual system (same color palette, type, and layout for episode covers and infographics) so the brand was recognizable in the feed and listeners could immediately spot new episodes
 
-![Instagram episode highlight – interview and follow-up tips](./media/ep17_instagram.png)  
+![Instagram episode highlight – interview and follow-up tips](./media/Podcast/ep17_instagram.png)  
 *Instagram campaign for the [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang) (the first Minister of Digital Affairs of Taiwan) interview: one post introducing the episode and a follow-up series about her own cybersecurity tips.*
 
-![Instagram explainer carousel](./media/browser.png)  
+![Instagram explainer carousel](./media/Podcast/browser.png)  
 *Carousel explainer that walks through "what happens after you type a web address", repackaging the episode into a step-by-step visual story.*
 
-![Instagram episode highlight – topic series](./media/ep46.png)  
+![Instagram episode highlight – topic series](./media/Podcast/ep46.png)  
 *Episode cover and slides for "Pretty Good Privacy", using simple diagrams to explain how PGP works and making the topic approachable for non-experts.*
 
 **How I evaluated ideas:**
@@ -164,7 +164,7 @@ To keep quality high and publishing predictable, each episode ran through a simp
 
 This lightweight but structured process is very similar to managing a product backlog and release cadence: ideas are captured, prioritized, refined with stakeholders, and only shipped when they meet the quality bar.
 
-![Notion content pipeline](./media/notion_content_pipeline.png)  
+![Notion content pipeline](./media/Podcast/notion_content_pipeline.png)  
 *Notion content pipeline for InfosecDecompress, tracking each episode from idea to released across multiple channels.*
 
 
@@ -178,7 +178,7 @@ This lightweight but structured process is very similar to managing a product ba
 - Ranked in the top 1.5 percent of podcasts globally by [Listen Notes](https://www.listennotes.com/podcasts/資安解壓縮-jeff-vQZzkFRCETb) (out of 3.6M+ shows, updated December 2025)
 
 <p align="middle">
-  <img src="./media/IMG_3939.png" alt="Listen Notes ranking badge" width="360">
+  <img src="./media/Podcast/IMG_3939.png" alt="Listen Notes ranking badge" width="360">
 </p>
 
 *Listen Notes score and global rank for InfosecDecompress (top 1.5% of podcasts worldwide).*
