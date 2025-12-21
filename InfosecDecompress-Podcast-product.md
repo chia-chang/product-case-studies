@@ -6,6 +6,18 @@ InfosecDecompress is a Mandarin cybersecurity podcast that takes people from "I 
 
 **Why this matters for PM:** End-to-end product experience from idea and audience discovery to positioning, content roadmap, analytics, and iteration.
 
+### Process overview
+
+At a high level, the podcast followed a simple product loop from discovery to iteration.
+
+![InfosecDecompress process](./media/Podcast/InfosecDecompress-flowchart.png)
+*High-level flow from identifying the content gap and audience, to defining the MVP and content strategy, building a content pipeline and guest workflow, launching on multiple channels, analyzing data and feedback, and iterating to grow reach.*
+
+### Roadmap and phases
+
+![InfosecDecompress roadmap](./media/Podcast/Infosecdecompress-roadmap.png)
+*Five phases from discovering the gap and audience, to positioning and launching the MVP, building the content pipeline and channels, optimizing with data and feedback, and finally scaling reach and credibility.*
+
 
 
 ## 1. Context and Problem
