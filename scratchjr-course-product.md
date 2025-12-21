@@ -40,13 +40,13 @@ Help young children build confidence with programming concepts through stories, 
 ## 3. Goals and Success Metrics
 
 Because the online version is still in progress, goals focus on learning experience rather than revenue:   
-•	**Kids**: Understand and reuse concepts like sequence, conditions, and loops, not just follow step‑by‑step instructions.   
-•	**Parents**: Quickly see what each unit teaches and know how to review or practice with their child.   
+-	**Kids**: Understand and reuse concepts like sequence, conditions, and loops, not just follow step‑by‑step instructions.   
+-	**Parents**: Quickly see what each unit teaches and know how to review or practice with their child.   
 
 To support this, the curriculum design emphasizes:  
-•	A visible progression of concepts (from basic blocks to sequences, then conditions and loops).   
-•	Clear mapping between each lesson and the core concept it teaches.   
-•	Artifacts that kids can show and explain to parents (projects, badges, and a simple progress record).
+-	A visible progression of concepts (from basic blocks to sequences, then conditions and loops).   
+-	Clear mapping between each lesson and the core concept it teaches.   
+-	Artifacts that kids can show and explain to parents (projects, badges, and a simple progress record).
 
 
 
