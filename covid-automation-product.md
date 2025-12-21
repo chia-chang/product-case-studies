@@ -1,11 +1,11 @@
 # COVID Analytics Automation: A Data Scientist’s Product Thinking
 
-**Role:** Analytics Product Lead at IBM. Led product design and delivery, coordinating between data engineering team, epidemiologists, and public health partners.
+**Role:** Data Scientist at IBM. Owned analytics product design and implementation, working between epidemiologists and a data engineering team to turn manual reporting workflows into an automated system.
 
 **Team Structure:**
 
 - Overall COVID team: ~30 people
-- Direct working group: 5 data engineers (each owning one data system: cases, testing, hospitalization, death, vaccination), 1 lead epidemiologist (primary client, interfacing with Mayor’s office)
+- Direct working group: 5 data engineers (each owning one data system: cases, testing, hospitalization, death, vaccination) coordinated by an IBM tech lead, 1 lead epidemiologist (primary client, interfacing with Mayor’s office)
 - External partners: CDC collaborators, Brown University researchers
 
 **What we built:** Automated COVID-19 reporting system that reduced manual work from 3-4 hours to about 15 minutes per report.
@@ -53,7 +53,7 @@ Before writing code, I worked with stakeholders to align on what “success” m
 
 ## 3. Users and Needs
 
-Mapping out several user groups and their needs:
+I mapped out several user groups and their needs.
 
 **Primary user: epidemiologists and data analysts**
 
@@ -79,29 +79,36 @@ These personas shaped what the pipeline produced: detailed tables for analysts, 
 
 ## 4. My Role and Approach
 
-I led analytics product design and delivery for this project, working across a distributed team:
-
-**Data Engineering Team (5 engineers):**
-
-- Each engineer owned one data system (cases, testing, hospitalization, death, vaccination)
-- I defined integration requirements, data quality standards, and output specifications
-- Worked with them on sprint planning to make sure all streams could integrate into consistent reports
+I owned analytics product design and implementation for this project, working as the technical lead between stakeholders and the data engineering team:
 
 **Primary Stakeholder - Lead Epidemiologist:**
 
-- Interfaced with Mayor’s office and brought operational requirements
-- I translated these into technical specs and helped prioritize features
-- Coordinated with them on validation and metric definitions
+- Brought requirements from Mayor’s office, usually driven by weekly press briefings
+- I worked with them to discuss needs, prioritize features, and propose technical solutions
+- Often identified manual processes in their workflow and suggested automation opportunities (which became the core of the 80% time reduction)
+
+**Data Engineering Team (5 engineers, coordinated by an IBM lead):**
+
+- Each engineer owned one data system (cases, testing, hospitalization, death, vaccination)
+- I specified what data and formats I needed from each stream to build the integrated reports
+- Worked with the team lead on prioritization and timelines
 
 **External Partners:**
 
 - CDC collaborators and Brown University researchers regularly requested custom datasets
-- I scoped these requests, worked with the engineering team on feasibility, and managed delivery timelines
+- I scoped these requests, assessed feasibility, and coordinated delivery with the engineering team
+
+**My day-to-day work included:**
+
+- Requirements gathering and translation: turning epidemiological needs into technical specifications
+- Solution design: proposing and implementing automation for manual workflows
+- Hands-on development: building the core reporting pipeline and analytics products
+- Cross-team coordination: making sure data from 5 different systems could integrate cleanly
 
 The approach combined:
 
 - **User research:** talking with analysts, operations staff, and leaders about their current workflows and where they lost time or trust
-- **Metric design:** agreeing on a small set of impact metrics (time saved, adoption, consistency) rather than just counting dashboards or queries
+- **Proactive problem-solving:** identifying manual bottlenecks and proposing automated solutions
 - **Iterative delivery:** treating each change as an experiment and using feedback and metrics to decide what to improve next
 
 
@@ -117,8 +124,8 @@ At a high level, the system is an automated data product:
 
 **Impact highlights:**
 
-- Around 80% reduction in reporting time (3-4 hours down to 15 minutes)
-- Dashboards and reports used by more than 100K daily users across organizations and the public
+- Around 80 percent reduction in reporting time (3-4 hours down to about 15 minutes)
+- Dashboards and reports used by more than 100,000 daily users across organizations and the public
 - Consistent metrics across teams and channels, which reduced confusion and rework
 
 The core of the work was implemented in Python, but the key design decisions were driven by user needs and trade-offs, not only by technical elegance.
@@ -233,8 +240,7 @@ By the time the system was fully adopted, our team had:
 
 Taken together, these signals matched what is usually seen when an internal data product reaches real traction: frequent use, reliance, and inbound demand for extensions.
 
-**My contribution:** Led product strategy and delivery coordination, working with 5 data engineers and a lead epidemiologist to move from siloed manual work to an integrated, automated system that became the organization’s single source of truth for COVID data.
-
+**My contribution:** Owned analytics product design and implementation, working with the epidemiologist to identify automation opportunities and with 5 data engineers to build an integrated system that became the organization’s single source of truth for COVID data.
 
 
 ## 10. Technical Implementation
@@ -257,7 +263,6 @@ Data sources → Ingestion → Processing → Storage → Reports, Charts, and D
 
 **For detailed code and implementation:**  
 See the [technical repository](https://github.com/chia-chang/covid-analytics-automation) with sample notebooks, data pipeline, and report generation examples.
-
 
 
 ## Contact
