@@ -8,7 +8,7 @@
 - Direct working group: 5 data engineers (each owning one data system: cases, testing, hospitalization, death, vaccination) coordinated by an IBM tech lead, 1 lead epidemiologist (primary client, interfacing with Mayor’s office)
 - External partners: CDC collaborators, Brown University researchers
 
-**What we built:** Automated COVID-19 reporting system that reduced manual work from 3-4 hours to about 15 minutes per report.
+**What we built:** Automated COVID-19 reporting system that reduced manual work from 3–4 hours to 15 minutes per report, and became the default way teams generated daily updates.
 
 **Why this matters for PM:** This work required product skills such as understanding users, prioritizing features, defining and tracking success metrics, and coordinating across multiple teams to deliver a unified solution.
 
@@ -79,7 +79,7 @@ These personas shaped what the pipeline produced: detailed tables for analysts, 
 
 ## 4. My Role and Approach
 
-I owned analytics product design and implementation for this project, working as the technical lead between stakeholders and the data engineering team:
+I owned the analytics product design and implementation for this project, acting as the bridge between stakeholders and the data engineering team:
 
 **Primary Stakeholder - Lead Epidemiologist:**
 
