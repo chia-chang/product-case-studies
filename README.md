@@ -7,6 +7,14 @@ Each case study includes:
 - **Product view:** problem, users, decisions, trade‑offs, roadmap, and outcomes  
 - **Technical view:** links to code, architecture, and implementation details  
 
+## Portfolio at a glance
+
+| Project | Type | My role | Key users | Highlights |
+|--------|------|---------|----------|-----------|
+| InfosecDecompress Podcast | 0→1 content product | Co‑creator, Product & Analytics | Mandarin security beginners, orgs using episodes for training | Top 1.5% global ranking, 78% engagement rate, Instagram‑driven growth |
+| COVID Analytics Automation | Internal data product | Data Scientist, analytics product lead | Epidemiologists, ops, leadership, public dashboards | 3–4h → 15min reports, 100K+ daily users, single source of truth |
+| Scratch Jr Course | Edtech curriculum (in progress) | Curriculum & Product | Kids 5–7, parents, instructors | Concept‑based syllabus, motivation system, parent tools for online version |
+
 
 
 ## 1. InfosecDecompress Podcast (0 to 1 product)
