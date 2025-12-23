@@ -153,6 +153,13 @@ The core of the work was implemented in Python, but the key design decisions wer
 
 Instead of trying to ship a complete platform in one shot, I worked with the team to focus on getting a small but useful version into people’s hands quickly.
 
+**Prioritizing the MVP scope:**
+
+![COVID MoSCoW](./media/COVID/COVID-moscow.png)
+
+For the first release, automated feeds for cases and tests plus one daily report were **must‑have**. Additional metrics, segment views, and leadership dashboards were **should‑have**, while alerts, richer visuals, forecasting, and real‑time streaming stayed in **could** or **won’t have** until the core workflow proved valuable.
+
+
 **For the first version, we scoped the work to:**
 
 - Connect to the three most important data sources and automate ingestion
