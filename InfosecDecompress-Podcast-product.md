@@ -105,7 +105,7 @@ Treat the podcast as a long-term product, not just a collection of episodes:
 - Used [Instagram](https://www.instagram.com/infosec.zip) to share visuals, episode highlights, tools, and news updates, which became a key channel for bringing new listeners to the podcast
 - Made episodes easy to share so listeners could recommend them to non-technical coworkers, friends, and family
 
-### Prioritizing the first launch
+**Prioritizing the first launch:**
 
 ![InfosecDecompress MoSCoW](./media/Podcast/InfosecDecompress-moscow.png)
 
