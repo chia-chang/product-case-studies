@@ -105,6 +105,14 @@ Treat the podcast as a long-term product, not just a collection of episodes:
 - Used [Instagram](https://www.instagram.com/infosec.zip) to share visuals, episode highlights, tools, and news updates, which became a key channel for bringing new listeners to the podcast
 - Made episodes easy to share so listeners could recommend them to non-technical coworkers, friends, and family
 
+### Prioritizing the first launch
+
+![InfosecDecompress MoSCoW](./media/Podcast/InfosecDecompress-moscow.png)
+
+We used a simple MoSCoW view to decide which episode types belonged in the initial launch: fundamentals and news breakdowns were **must‑have**, tool explainers and a few interviews were **should‑have**, while mini‑series, live Q&A, and cross‑podcast collaborations stayed in **could** or **won’t have for now**.
+
+
+
 **Instagram as a growth channel:**
 
 Instagram became one of our strongest acquisition and engagement channels:
