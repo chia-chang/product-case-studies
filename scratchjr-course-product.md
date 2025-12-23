@@ -154,6 +154,13 @@ The current plan for the online version is:
 
 This is still in progress; the work so far focuses on curriculum architecture, concept mapping, and the reward system rather than full production of all videos.
 
+### Prioritizing the online pilot
+
+![Scratch Jr MoSCoW](media/scratchjr/ScratchJr-moscow.png)
+
+The online pilot focused on a concept‑based lesson set, printables, and core parent tools as **must‑have**. Parent checklists and extra challenges were **should‑have**, while live sessions, digital tracking, a full platform, and formal grading were explicitly **won’t have** for this stage.
+
+
 ## 10. How This Relates to Product Roles
 
 This project demonstrates:   
